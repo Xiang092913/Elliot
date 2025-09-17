@@ -1,5 +1,6 @@
-# Elliot
-programing learner
+# Elliot（GUO Xiang）
+programing learner   Taylor Swift stan👸
+Game designer     love watch movie（Especially Marvel） I enjoy looking at the concept designs of others during the creation period of movies, animations and games. It's very inspiring.
 
 # Tech Stack
 - pandas
