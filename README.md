@@ -1,6 +1,8 @@
 # Elliot（GUO Xiang）
 programing learner   Taylor Swift stan👸
+
 Game designer     love watch movie（Especially Marvel） I enjoy looking at the concept designs of others during the creation period of movies, animations and games. It's very inspiring.
+
 The first weather project is for practice, representing my first encounter with coding. The second one is an assignment that I learned from other website.
 
 # Tech Stack
