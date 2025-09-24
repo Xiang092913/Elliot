@@ -3,7 +3,7 @@ programing learner   Taylor Swift stan👸
 
 Game designer     love watch movie（Especially Marvel） I enjoy looking at the concept designs of others during the creation period of movies, animations and games. It's very inspiring.
 
-The first weather project is for practice, representing my first encounter with coding. The second one is an assignment that I learned from other website.
+The first weather project is for practice, representing my first encounter with coding. The second one is an assignment that I learned from other website.It primarily displays a global comparison of illumination
 
 # Tech Stack
 - pandas
@@ -16,7 +16,7 @@ The first weather project is for practice, representing my first encounter with 
 
   ## Data Source
 Weather data is collected from [https://weibo.com/6935399164/OnScu7KaT](https://tianqi.2345.com/wea_history/45007.htm)
-map source is collected from 
+map source is collected from https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_NDVI_M&year=2025 
 
 ## Example Output（）
 
